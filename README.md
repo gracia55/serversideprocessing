@@ -141,6 +141,7 @@ urlpatterns = [
 
 ]
 ## OUTPUT:
+
 ![image](https://github.com/gracia55/serversideprocessing/assets/129026838/a03e32ce-4b66-456d-a3c2-ffe23e421977)
 
 ### Home Page:
